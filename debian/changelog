@@ -4,6 +4,7 @@ erlang-p1-pgsql (1.0.0-0.1) unstable; urgency=medium
   * Use upstream releases instead of using the latest git snapshot.
   * Use upstream-tag format to make use of upstream tags.
   * Take over this package.
+  * Fix a space in the short license section in debian/copyright.
 
  -- Mathias Ertl <mati@jabber.at>  Sat, 16 Jan 2016 11:14:00 +0100
 

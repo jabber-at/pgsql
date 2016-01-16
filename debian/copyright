@@ -5,7 +5,7 @@ Source: https://github.com/processone/pgsql
 Files: *
 Copyright: 2005 Christian Sunesson <chsu79@gmail.com>
            2013-2014 Evgeniy Khramtsov <ekhramtsov@process-one.net>
-License: EPL 1.1
+License: EPL-1.1
  ERLANG PUBLIC LICENSE
  Version 1.1
  .
