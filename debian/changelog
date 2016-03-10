@@ -1,4 +1,4 @@
-erlang-p1-mysql (1.0.1-0.1) unstable; urgency=medium
+erlang-p1-pgsql (1.0.1-0.1) unstable; urgency=medium
 
   * New upstream release.
   * This package now uses the upstream
