@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: pgsql
-Source: https://github.com/processone/pgsql
+Upstream-Name: p1_pgsql
+Source: https://github.com/processone/p1_pgsql
 
 Files: *
 Copyright: 2005 Christian Sunesson <chsu79@gmail.com>
