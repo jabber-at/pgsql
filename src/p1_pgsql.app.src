@@ -20,7 +20,6 @@
 %%% limitations under the License.
 %%%
 %%%----------------------------------------------------------------------
-
 {application, p1_pgsql,
  [{description,  "PostgreSQL driver"},
   {vsn,          "1.0.1"},
