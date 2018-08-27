@@ -7,6 +7,7 @@ erlang-p1-pgsql (1.1.6-0.1) unstable; urgency=medium
   * Switched to debhelper 11
   * Set Orig-Maintainer: Ejabberd Packaging Team
     <ejabberd@packages.debian.org>
+  * Updated years in debian/copyright
 
  -- Mathias Ertl <mati@jabber.at>  Mon, 27 Aug 2018 13:12:04 +0200
 
