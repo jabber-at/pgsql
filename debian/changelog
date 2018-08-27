@@ -8,6 +8,7 @@ erlang-p1-pgsql (1.1.6-0.1) unstable; urgency=medium
   * Set Orig-Maintainer: Ejabberd Packaging Team
     <ejabberd@packages.debian.org>
   * Updated years in debian/copyright
+  * Merge/update lintian-overrides
 
  -- Mathias Ertl <mati@jabber.at>  Mon, 27 Aug 2018 13:12:04 +0200
 
