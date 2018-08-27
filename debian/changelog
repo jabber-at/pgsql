@@ -4,6 +4,7 @@ erlang-p1-pgsql (1.1.6-0.1) unstable; urgency=medium
   * Added debian/upstream/metadata
   * Updated Standards-Version: 4.1.4 (no changes needed)
   * Use secure copyright format uri in debian/copyright
+  * Switched to debhelper 11
 
  -- Mathias Ertl <mati@jabber.at>  Mon, 27 Aug 2018 13:12:04 +0200
 
