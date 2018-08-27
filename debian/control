@@ -1,7 +1,7 @@
 Source: erlang-p1-pgsql
 Priority: optional
 Maintainer: Mathias Ertl <mati@jabber.at>
-XSBC-Orig-Maintainer: Philipp Huebner <debalance@debian.org>
+XSBC-Orig-Maintainer: Ejabberd Packaging Team <ejabberd@packages.debian.org>
 Build-Depends: debhelper (>= 11~),
                dh-rebar, erlang-base, erlang-crypto, erlang-eunit, erlang-syntax-tools
 Standards-Version: 4.1.4
